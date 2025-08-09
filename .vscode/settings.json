@@ -54,5 +54,6 @@
             "url": "./data/schemas/keymap.jsonschema"
         }
     ],
-    "cmake.ignoreCMakeListsMissing": true
+    "cmake.ignoreCMakeListsMissing": true,
+    "C_Cpp.default.compilerPath": ""
 }
