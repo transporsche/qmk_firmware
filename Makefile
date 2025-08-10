@@ -1,4 +1,4 @@
-CC = clang
+#CC = cpp
 ifndef VERBOSE
 .SILENT:
 endif
